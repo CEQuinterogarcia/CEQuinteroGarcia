@@ -1,16 +1,54 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**CEQuinterogarcia/CEQuinteroGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Camilo Quintero, un apasionado desarrollador Full Stack e Ingeniero de Sistemas con un enfoque en la creación de aplicaciones web escalables y de alto rendimiento.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desarrollador Full Stack con experiencia en tecnologías front-end y back-end.
+- 🌱 Siempre estoy aprendiendo y buscando nuevas tecnologías para mejorar mis habilidades.
+- 🔍 Apasionado por resolver problemas y encontrar soluciones creativas.
+- 🤝 Creo en la importancia de la colaboración y la comunicación efectiva en equipos de desarrollo.
+
+## Tecnologías
+
+### Lenguajes de Programación
+
+- JavaScript
+- Python
+- C++
+
+### Front-end
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Material UI
+
+### Back-end
+
+- Node.js
+- Express.js
+- Nest.js
+
+### Bases de Datos
+
+- MongoDB
+- MySQL
+- PostgreSQL
+
+## Intereses
+
+- 🚀 Desarrollo web y móvil
+- 📱 Experiencia de usuario (UX)
+- 🌐 Tecnologías emergentes como la inteligencia artificial y la realidad aumentada
+
+## Contacto
+
+¡No dudes en contactarme si tienes alguna pregunta o si estás interesado en colaborar en proyectos emocionantes juntos!
+
+- 📧 Correo electrónico: kamterogarcia11@gmail.com
+- 💬 LinkedIn: linkedin.com/in/camilo-ernesto-quintero-garcia-1778ab1ba
+
+
+¡Gracias por visitar mi perfil!
