@@ -14,7 +14,6 @@
 ### Lenguajes de Programación
 
 - JavaScript
-- Python
 - C++
 
 ### Front-end
@@ -24,16 +23,19 @@
 - JavaScript
 - React
 - Material UI
+- Angular
 
 ### Back-end
 
 - Node.js
 - Express.js
 - Nest.js
+- Sequelize
 
 ### Bases de Datos
 
-- MongoDB
+- Vercel
+- Render
 - MySQL
 - PostgreSQL
 
